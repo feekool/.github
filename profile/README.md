@@ -15,6 +15,6 @@ Here's your Open Source anonymous forum, tailored as a customizable platform tha
 
 > "From idea to live forum faster than brewing coffee." — FedoseevSM
 
-⭐️ **Fork on GitHub:** [github.com/feekool/feekool](https://github.com/feekool/feekool)
+⭐️ **Fork on GitHub:** [github.com/feekool/feekool.github.io](https://github.com/feekool/feekool.github.io)
 
 ♥️ Сделано с любовью

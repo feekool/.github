@@ -17,4 +17,6 @@ Here's your Open Source anonymous forum, tailored as a customizable platform tha
 
 ⭐️ **Fork on GitHub:** [github.com/feekool/feekool.github.io](https://github.com/feekool/feekool.github.io)
 
+💬 **Discussions:** [github.com/orgs/feekool/discussions](https://github.com/orgs/feekool/discussions)
+
 ♥️ Сделано с любовью
